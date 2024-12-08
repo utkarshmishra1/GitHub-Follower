@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  GHFollowers
 //
-//  Created by Femi Aliu on 19/10/2021.
+//  Created by Utkarsh on 16/07/2024.
 //
 
 import UIKit
