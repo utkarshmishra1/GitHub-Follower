@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  GHFollowers
 //
-//  Created by Femi Aliu on 19/10/2021.
+//  Created by Utkarsh on 6/06/2024.
 //
 
 import UIKit
