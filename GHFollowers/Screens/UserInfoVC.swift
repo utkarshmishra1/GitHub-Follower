@@ -2,7 +2,7 @@
 //  UserInfoVC.swift
 //  GHFollowers
 //
-//  Created by Femi Aliu on 24/06/2022.
+//  Created by Utkarsh on 16/07/2024.
 //
 
 import UIKit
