@@ -5,7 +5,7 @@ Features
 Search for GitHub followers by username: Easily search for any GitHub user’s followers.
 View detailed profile information: Get details like avatar, name, bio, followers count, following count, and repositories count.
 Favorites tab: Add any follower to your favorites list for easy access.
-Manage favorites: Remove followers from the favorites tab by swiping left on their profile.
+Manage favorites: Remove followers from the favorites tab by swiping left on their profile
 Light and Dark Mode support: The app automatically adapts to light and dark modes.
 User-friendly and clean interface: Seamlessly navigate through the app’s features.
 Frameworks and Technologies
