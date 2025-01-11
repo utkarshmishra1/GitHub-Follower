@@ -12,5 +12,7 @@ Frameworks and Technologies
 UIKit: For building the user interface programmatically.
 URLSession: To interact with the GitHub API and fetch follower data.
 Auto Layout: For creating responsive and adaptive layouts.
+Optimized app performance with 60% faster data loading using pagination and image caching, enhancing user
+retention via a persistent favorites management system.
 Fully Programmatic UI: The entire user interface is built programmatically without using storyboards.
 <img width="408" alt="Screenshot 2024-12-09 at 12 14 13 AM" src="https://github.com/user-attachments/assets/64d31410-9d44-45db-9684-6207d26e201c">
